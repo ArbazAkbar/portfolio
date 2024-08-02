@@ -1,0 +1,6 @@
+Run the script using the following command:
+
+1. python integrity_checker.py -h //This will display the help message with available options.
+2. python integrity_checker.py -d /path/to/directory -o output.json //Scan a directory and save checksums to a file.
+3. python integrity_checker.py -d /path/to/directory -o output.json //Check a file's integrity.
+4. python integrity_checker.py -i input.json //Load checksums from a file and verify files.
