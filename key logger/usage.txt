@@ -1,0 +1,7 @@
+##Key point:
+Before run this project make sure you have install required dependencies 
+
+##How to run this project:
+python scipt name hit enter //For linux user via terminal
+
+simply run this project using vs code edditor 
